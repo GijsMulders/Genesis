@@ -4,7 +4,7 @@ This page contains example notebooks for reading in the Genesis Database from an
 
 ## Examples
 
-[Single Run Example](Single Run.ipynb)
+[Single Run Example](SingleRun.ipynb)
 
 
 [Planet Population Example](Population.ipynb)
