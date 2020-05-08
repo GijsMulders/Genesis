@@ -1,6 +1,6 @@
 # Genesis
 
-This page contains example notebooks for reading in the Genesis Database from an hdf5 file
+This page contains example notebooks for reading in the [Genesis Database](http://http://eos-nexus.org/genesis-database/) from an hdf5 file
 
 ## Examples
 
@@ -11,8 +11,4 @@ This page contains example notebooks for reading in the Genesis Database from an
 
 ## Database
 
-The database itself will be hosted at [TBD]
-
-## Image Gallery
-
-[A clickable image gallery](http://geosci.uchicago.edu/~fciesla/GD/Genesis%20Database.html)
+The hdf5 file itself is hosted at [figshare](https://doi.org/10.6084/m9.figshare.12195321.v1)
