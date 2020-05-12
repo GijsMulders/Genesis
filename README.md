@@ -1,6 +1,6 @@
 # Genesis
 
-This page contains example notebooks for reading in the [Genesis Database](http://http://eos-nexus.org/genesis-database/) from an hdf5 file
+This page contains example notebooks for reading in the [Genesis Database](http://eos-nexus.org/genesis-database/) from an hdf5 file
 
 ## Examples
 
